@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cd0ae2b7-780e-6417-9aea-e64546208ac5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Algorithms",
+  "course_description": "This course is a first-year graduate course in algorithms. Emphasis is placed on fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms, network optimization, parallel algorithms, computational geometry, online algorithms, external memory, cache, and streaming algorithms, and data structures.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.415J",
+  "primary_course_number": "6.854J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
